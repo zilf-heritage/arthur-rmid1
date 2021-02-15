@@ -1,4 +1,4 @@
-# Arthur: The Quest for Excalibur (Work In Progress)
+# Arthur: The Quest for Excalibur (Work in Progress)
 
 ## What is this?
 
